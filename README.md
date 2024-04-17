@@ -26,3 +26,13 @@ JQuery를 이용하면 훨씬 편하게 코딩 가능!
 
 document.getElementById('title').value='쥬라기 월드';
 -> $('#title').text('쥬라기 월드'); 로 변경됨
+
+
+
+서버(지점) - API(창구)
+
+https://nid.naver.com/nidlogin.login?url=https%3A%2F%2Fmail.naver.com%2F
+
+server : https://nid.naver.com
+API : nidlogin.login (물음표 전까지)
+Data : 그 이후
