@@ -13,3 +13,6 @@ https://getbootstrap.com/docs/5.3/components/buttons/
 구글 폰트 링크
 
 https://fonts.google.com/?subset=korean&query=gowun&noto.script=Kore
+
+카드 붙여넣기 참조
+https://getbootstrap.com/docs/5.3/components/card/
