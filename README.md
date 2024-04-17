@@ -16,3 +16,13 @@ https://fonts.google.com/?subset=korean&query=gowun&noto.script=Kore
 
 카드 붙여넣기 참조
 https://getbootstrap.com/docs/5.3/components/card/
+
+
+
+
+JQuery를 이용하면 훨씬 편하게 코딩 가능!
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+붙여넣고 시작하기..
+
+document.getElementById('title').value='쥬라기 월드';
+-> $('#title').text('쥬라기 월드'); 로 변경됨
